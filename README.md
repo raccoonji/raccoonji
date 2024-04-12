@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Header](https://github.com/raccoonji/raccoonji/blob/main/Assets/header.jpg)](https://t.me/jewharji)
+[![Header](https://github.com/raccoonji/raccoonji/blob/main/Assets/header.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ### Game Development | Full-Stack Quality Assurance 
 
