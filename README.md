@@ -2,7 +2,9 @@
 
 [![Header](https://github.com/raccoonji/raccoonji/blob/main/Assets/header.jpg)](https://t.me/jewharji)
 
-About me 
+### Game Development | Full-Stack Quality Assurance 
+
+---
 
 Languages and Tools
 
