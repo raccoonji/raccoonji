@@ -19,8 +19,8 @@
 ### Programming Languages
 <div>
 	<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp
-	<img src="https://p7.hiclipart.com/preview/929/60/54/net-framework-c-net-core-software-framework-mono-studio.jpg" title="C#" alt="C#" width="40" height="40"/>&nbsp
-	<img src="https://p7.hiclipart.com/preview/889/976/939/the-c-programming-language-computer-programming-programming.jpg" title="C++" alt="C++" width="40" height="40"/>&nbsp
+	<!--<img src="https://p7.hiclipart.com/preview/929/60/54/net-framework-c-net-core-software-framework-mono-studio.jpg" title="C#" alt="C#" width="40" height="40"/>&nbsp
+	<img src="https://p7.hiclipart.com/preview/889/976/939/the-c-programming-language-computer-programming-programming.jpg" title="C++" alt="C++" width="40" height="40"/>&nbsp -->
 </div>
 
 ---
@@ -53,12 +53,10 @@
 	<img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="Fiddler" alt="Fiddler" width="40" height="40"/>&nbsp
 </div>
 -->
----
-
 ### Quality Automation 
 <div>
 	<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp
-	<img src="https://p7.hiclipart.com/preview/372/674/327/appium-test-automation-software-testing-selenium-calabash.jpg" title="Appium" alt="Appium" width="40" height="40"/>&nbsp
+	<!--<img src="https://p7.hiclipart.com/preview/372/674/327/appium-test-automation-software-testing-selenium-calabash.jpg" title="Appium" alt="Appium" width="40" height="40"/>&nbsp -->
 	<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/junit/junit-original-wordmark.svg" title="JUnit" alt="JUnit" width="40" height="40"/>&nbsp
 </div>
 
@@ -68,9 +66,9 @@
 <div>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="Bash" alt="Bash" width="40" height="40"/>&nbsp
-	<img src="https://p7.hiclipart.com/preview/852/593/318/using-docker-developing-and-deploying-software-with-containers-application-software-software-deployment-computer-software-github.jpg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp
-	<img src="https://p7.hiclipart.com/preview/626/722/557/microsoft-visual-studio-net-framework-visual-studio-code-visual-programming-language-microsoft.jpg" title="Microsoft Visual Studio" alt="Microsoft Visual Studio" width="40" height="40"/>&nbsp
-	<img src="https://p7.hiclipart.com/preview/610/376/28/intellij-idea-integrated-development-environment-jetbrains-java-computer-software-others.jpg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>&nbsp
+	<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp
+	<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/visualstudio/visualstudio-original.svg" title="Microsoft Visual Studio" alt="Microsoft Visual Studio" width="40" height="40"/>&nbsp
+	<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>&nbsp
 </div>
 
 ---
