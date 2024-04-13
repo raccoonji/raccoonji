@@ -7,7 +7,7 @@
 ---
 
 ### Development and Project Management Tools
-<div>
+<div id="badges">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp
 	<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/confluence/confluence-original-wordmark.svg" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp
 	<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp
@@ -31,9 +31,20 @@
 ---
 
 ### Database Management Systems 
-<div></div>
+<div>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp
+	<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/oracle/oracle-original.svg" title="Oracle Database" alt="Oracle Database" width="40" height="40"/>&nbsp
+</div>
 
----
 ---
 
 ### Links
+ <div>
+    <!-- <a href="https://www.linkedin.com/" target="_blank"> -->
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="LinkedIn" />
+    </a>
+    <!--<a href="https://t.me/" target="_blank"> -->
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram" />
+    </a>
+  </div>
