@@ -19,8 +19,8 @@
 ### Programming Languages
 <div>
 	<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp
-	<!--<img src="https://p7.hiclipart.com/preview/929/60/54/net-framework-c-net-core-software-framework-mono-studio.jpg" title="C#" alt="C#" width="40" height="40"/>&nbsp
-	<img src="https://p7.hiclipart.com/preview/889/976/939/the-c-programming-language-computer-programming-programming.jpg" title="C++" alt="C++" width="40" height="40"/>&nbsp -->
+	<img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp
+	<!-- <img src="https://" title="C++" alt="C++" width="40" height="40"/>&nbsp -->
 </div>
 
 ---
@@ -69,6 +69,7 @@
 	<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp
 	<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/visualstudio/visualstudio-original.svg" title="Microsoft Visual Studio" alt="Microsoft Visual Studio" width="40" height="40"/>&nbsp
 	<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>&nbsp
+	<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp
 </div>
 
 ---
@@ -85,3 +86,5 @@
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram" />
     </a>
 </div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raccoonji&show_icons=true&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
