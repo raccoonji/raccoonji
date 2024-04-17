@@ -24,15 +24,9 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="35" height="35"/>&nbsp
 	<!-- <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="Charles Proxy" alt="Charles Proxy" width="35" height="35"/>&nbsp -->
 	<img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="Fiddler" alt="Fiddler" width="35" height="35"/>&nbsp
-</div>
-
----
-
-#### Database Management Systems 
-<div>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="35" height="35"/>&nbsp
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="35" height="35/>&nbsp
-	<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/oracle/oracle-original.svg" title="Oracle Database" alt="Oracle Database" width="35" height="35"/>&nbsp
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL Database Management System" alt="MySQL Database Management System" width="35" height="35"/>&nbsp
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB Database Management System" alt="MongoDB Database Management System" width="35" height="35/>&nbsp
+	<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/oracle/oracle-original.svg" title="Oracle Database Management System" alt="Oracle Database Management System" width="35" height="35"/>&nbsp
 </div>
 
 ---
