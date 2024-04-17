@@ -4,7 +4,7 @@
 <!-- ### Game Development | Full-Stack Quality Assurance -->
 ---
 
-### Languages and Tools
+#### Languages and Tools
 <div>
 	<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="35" height="35"/>&nbsp
 	<img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" title="C#" alt="C#" width="35" height="35"/>&nbsp
@@ -28,16 +28,16 @@
 
 ---
 
-### Database Management Systems 
+#### Database Management Systems 
 <div>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="35" height="35/>&nbsp
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="35" height="35"/>&nbsp
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="35" height="35/>&nbsp
 	<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/oracle/oracle-original.svg" title="Oracle Database" alt="Oracle Database" width="35" height="35"/>&nbsp
 </div>
 
 ---
 
-### Development and Project Management Tools
+#### Development and Project Management Tools
 <div id="badges">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="35" height="35"/>&nbsp
 	<!-- <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/confluence/confluence-original-wordmark.svg" title="Confluence" alt="Confluence" width="35" height="35"/>&nbsp -->
@@ -49,7 +49,7 @@
 
 ---
 
-### Links
+#### Links
 <div>
     <!--<a href="mailto:sttelmakh@gmail.com" target="_blank"> -->
       <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="35" height="35" alt="Gmail" />
