@@ -5,8 +5,7 @@
 ---
 
 ### Languages and Tools
-	![Java](https://img.shields.io/badge/-Java-16313C?style=for-the-badge&logo=java&logoColor=F0931C)
-	![C#](https://img.shields.io/badge/-C#-16313C?style=for-the-badge&logo=c#&logoColor=3F0893)
+	![Java](https://img.shields.io/badge/-Java-16313C?style=for-the-badge&logo=Java&logoColor=F0931C)
 
 ---
 
@@ -24,6 +23,6 @@
 </div>
 
 ---
-
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raccoonji&show_icons=true&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
