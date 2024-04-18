@@ -58,5 +58,11 @@
 <!--
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raccoonji&show_icons=true&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raccoonji&show_icons=true&theme=moltack&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raccoonji&layout=compact&langs_count=6&theme=moltack" />
+</div>
+
+[![examplemark](https://github-readme-stats.vercel.app/api?username=raccoonji&show_icons=true&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
+
 -->
